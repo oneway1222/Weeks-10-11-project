@@ -14,7 +14,7 @@ A **honeypot** is a decoy application, server, or other networked resource that 
 * Malware samples
 * DB vulnerabilities such as SQLI techniques
 
-* Summary of the Attacks
+### Summary of the Attacks
 
 
 
@@ -37,8 +37,8 @@ A **honeypot** is a decoy application, server, or other networked resource that 
 | 8080 | 2      |
 
 
-* Which Honeypot(s) you deployed
+### Which Honeypot(s) you deployed
 Honeypot (Dionaea with HTTP)
 
-* Any issues you encountered
+### Any issues you encountered
 Very challenging to configure the firewall and Google Cloud Platform because it was my first time.
