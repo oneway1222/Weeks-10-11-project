@@ -9,115 +9,36 @@ A **honeypot** is a decoy application, server, or other networked resource that 
 
 
 
-
-
-
-* Information about sources of malicious network traffic such as IP addresses, geographic origin, targeted ports, etc.
-
-
-
-* Information used to harden resources against email spammers
-
-
-
+* Information about sources of malicious network traffic such as IP addresses, geographic origin, targeted ports, etc
+* Information used to harden resources against email spammer
 * Malware samples
-
-
-
 * DB vulnerabilities such as SQLI techniques
-
-
-
-
-
-
 
 * Summary of the Attacks
 
 
 
 | Top 5 Attacker IPs        | Number of Attacks          |
-
-
-
 | ------------- |:-------------:|
-
-
-
 | 195.154.181.191      | 13 |
-
-
-
 | 202.96.50.225      | 6      |
-
-
-
 | 139.60.161.43 | 3      |
-
-
-
 | 5.9.49.72 | 2      |
-
-
-
 | 178.159.37.99 | 2      |
 
 
 
-
-
-
-
-
-
-
-
 | Top 5 Attacker Ports        | Number of Attacks          |
-
-
-
 | ------------- |:-------------:|
-
-
-
 | 23      | 17 |
-
-
-
 | 5060      | 16      |
-
-
-
 | 10050 | 6      |
-
-
-
 | 1433 | 3      |
-
-
-
 | 8080 | 2      |
 
 
-
-
-
-
-
 * Which Honeypot(s) you deployed
-
-
-
 Honeypot (Dionaea with HTTP)
 
-
-
-
-
-
-
 * Any issues you encountered
-
-
-
 Very challenging to configure the firewall and Google Cloud Platform because it was my first time.
